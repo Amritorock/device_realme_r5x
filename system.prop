@@ -51,6 +51,7 @@ debug.cpurend.vsync=false
 ro.surface_flinger.max_frame_buffer_acquired_buffers=3
 
 # Dex
+dalvik.vm.dex2oat64.enabled=true
 persist.bg.dexopt.enable=true
 dalvik.vm.dexopt.secondary=true
 pm.dexopt.install=speed-profile
