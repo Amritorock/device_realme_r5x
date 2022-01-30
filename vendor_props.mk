@@ -134,7 +134,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
     vendor.gralloc.enable_fb_ubwc=1
     persist.sys.sf.color_saturation=1.1 \
     persist.sys.sf.native_mode=0 \
-
+    debug.hwui.use_hint_manager=true \
+    debug.hwui.target_cpu_time_percent=30 \
+    
 # DRM
 PRODUCT_PROPERTY_OVERRIDES += \
     drm.service.enabled=true
