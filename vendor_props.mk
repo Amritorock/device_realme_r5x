@@ -157,10 +157,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.radio.mt_sms_ack=30 \
     persist.dbg.wfc_avail_ovr=1
 
-# IORap app launch prefetching using Perfetto traces and madvise
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.iorapd.enable=true
-
 # Keystore
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.hardware.keystore_desede=true
