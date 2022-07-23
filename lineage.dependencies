@@ -1,13 +1,13 @@
 [
     {
-        "repository":   "kernel_realme_r5x",
+        "repository":   "kernel_realme_trinket",
         "target_path":  "kernel/realme/r5x",
-        "branch":       "twelve"
+        "branch":       "devel"
     },
     {
         "repository":   "vendor_realme_r5x",
         "target_path":  "vendor/realme/r5x",
-        "branch":       "twelve",
-        "remote":       "pixel-devices-blobs"
+        "branch":       "12L",
+        "remote":       "Amritorock"
     }
 ]
