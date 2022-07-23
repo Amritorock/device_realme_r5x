@@ -349,11 +349,11 @@
     <ctl name="TX SMIC MUX7" value="ZERO" />
 
     <!-- Volume controls -->
-    <ctl name="WSA_RX0 Digital Volume" value="84" />
-    <ctl name="WSA_RX1 Digital Volume" value="84" />
-    <ctl name="RX_RX0 Digital Volume" value="84" />
-    <ctl name="RX_RX1 Digital Volume" value="84" />
-    <ctl name="RX_RX2 Digital Volume" value="84" />
+    <ctl name="WSA_RX0 Digital Volume" value="90" />
+    <ctl name="WSA_RX1 Digital Volume" value="90" />
+    <ctl name="RX_RX0 Digital Volume" value="90" />
+    <ctl name="RX_RX1 Digital Volume" value="90" />
+    <ctl name="RX_RX2 Digital Volume" value="90" />
     <ctl name="HPHL Volume" value="20" />
     <ctl name="HPHR Volume" value="20" />
     <ctl name="EAR SPKR PA Gain" value="G_DEFAULT" />
@@ -367,9 +367,9 @@
     <ctl name="TX_DEC6 Volume" value="102" />
     <ctl name="TX_DEC7 Volume" value="102" />
 
-    <ctl name="ADC1 Volume" value="12" />
-    <ctl name="ADC2 Volume" value="12" />
-    <ctl name="ADC3 Volume" value="12" />
+    <ctl name="ADC1 Volume" value="15" />
+    <ctl name="ADC2 Volume" value="15" />
+    <ctl name="ADC3 Volume" value="15" />
 
     <!-- Compander controls -->
     <ctl name="WSA_COMP1 Switch" value="0" />
